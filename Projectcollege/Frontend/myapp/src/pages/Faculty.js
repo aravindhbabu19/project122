@@ -21,7 +21,7 @@ const Faculty = () => {
           <div class='row mt-5'>
             <div class='col-12 col-sm-12 col-md-4 col-lg-4 pb-3'>
             <div class="testimonial3 pb-5">
-            <img src="/Images/college/founder.jpg" alt="" class='patient-img1' />
+            <img src="/Images/College/founder.jpg" alt="" class='patient-img1' />
             <h4 class='faculty-found d-flex justify-content-center mt-4'>Dr. J. Raghunatha Reddy </h4>
             <h4 class='faculty-found1 d-flex justify-content-center mt-2'>Correspondent</h4>
             <p class='faculty-found2 d-flex justify-content-center'>A dedicated healthcare leader and founder of Renuka Multi-Specialty Hospital, Dr. Raghunatha Reddy brings his vast clinical and administrative experience to Mounika Paramedical College. He plays a key role in guiding students with real-world hospital exposure, leadership values, and community service orientation.</p>
